@@ -1,4 +1,10 @@
 line1
 line2
 
+<<<<<<< HEAD
 line from forest
+=======
+line from forest
+
+line from beach
+>>>>>>> beach
